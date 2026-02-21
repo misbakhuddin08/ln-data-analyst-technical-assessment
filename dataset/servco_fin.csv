@@ -1,0 +1,6 @@
+servco_id;servco_name;contract_start;minimum_guarantee;lease_fee_per_active
+101;XLS;2024-01-01;0,25;140000
+102;MMA;2024-01-01;;130000
+103;SURGE;2024-01-01;;125000
+104;INFOCOM;2024-01-01;;135000
+105;TETRA;2024-01-01;;128000
